@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Got the Life",
+  "base_artist": "Korn",
+  "createdAt": "2026-02-17T14:27:57.564423Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Got The Life",
+      "artist": "Korn",
+      "has_synced": true,
+      "path": "select/01_Got_The_Life_Korn.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Got the Life",
+      "artist": "Korn",
+      "has_synced": true,
+      "path": "select/02_Got_the_Life_Korn.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Got The Life",
+      "artist": "Korn",
+      "has_synced": true,
+      "path": "select/03_Got_The_Life_Korn.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Got The Life",
+      "artist": "Korn",
+      "has_synced": true,
+      "path": "select/04_Got_The_Life_Korn.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Got the Life (Josh Abraham Remix)",
+      "artist": "Korn",
+      "has_synced": true,
+      "path": "select/05_Got_the_Life_(Josh_Abraham_Remix)_Korn.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Got The Life",
+      "artist": "Korn",
+      "has_synced": true,
+      "path": "select/06_Got_The_Life_Korn.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Got The Life",
+      "artist": "Korn",
+      "has_synced": true,
+      "path": "select/07_Got_The_Life_Korn.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "got the life",
+      "artist": "Korn",
+      "has_synced": true,
+      "path": "select/08_got_the_life_Korn.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Got The Life (Live from Denver 2014)",
+      "artist": "Korn",
+      "has_synced": true,
+      "path": "select/09_Got_The_Life_(Live_from_Denver_2014)_Korn.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Got the Life - D.O.S.E. Woollyback Remix",
+      "artist": "Korn",
+      "has_synced": false,
+      "path": "select/10_Got_the_Life_-_D.O.S.E._Woollyback_Remix_Korn.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Got the Life - Deejay Punk-Roc Mix",
+      "artist": "Korn",
+      "has_synced": false,
+      "path": "select/11_Got_the_Life_-_Deejay_Punk-Roc_Mix_Korn.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Got the Life (I Got A Knife)",
+      "artist": "Korn",
+      "has_synced": false,
+      "path": "select/12_Got_the_Life_(I_Got_A_Knife)_Korn.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Got the Life (Josh Abraham Remix)",
+      "artist": "Korn",
+      "has_synced": false,
+      "path": "select/13_Got_the_Life_(Josh_Abraham_Remix)_Korn.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Got the Life (Vorticist's Suite)",
+      "artist": "Korn",
+      "has_synced": false,
+      "path": "select/14_Got_the_Life_(Vorticist's_Suite)_Korn.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Got The Life - Live",
+      "artist": "Korn",
+      "has_synced": false,
+      "path": "select/15_Got_The_Life_-_Live_Korn.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Got The Life",
+      "artist": "Korn",
+      "has_synced": false,
+      "path": "select/pl_01_Got_The_Life_Korn.txt"
+    }
+  ]
+}
